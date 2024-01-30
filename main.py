@@ -26,7 +26,7 @@ grid = np.random.choice([0, 1], size=(rows, cols), p=[0.9, 0.1])
 
 # Couleurs
 black = (0, 0, 0)
-white = (255, 255, 255)
+white = (0, 255, 255)
 
 # Initialisation de la fenêtre
 screen = pygame.display.set_mode((width, height))
