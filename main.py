@@ -60,7 +60,7 @@ while running:
             running = False
         elif event.type == pygame.KEYDOWN:
             # Vérifiez si une touche du clavier est pressée
-            #running = False
+            running = False
     # Mise à jour de la grille
     update_grid()
 
