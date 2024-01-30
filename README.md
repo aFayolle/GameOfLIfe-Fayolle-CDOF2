@@ -14,7 +14,7 @@ Open the project in your IDE and run main.py
 Create a branch for your changes  
 Implement features, fix bugs, or make enhancements  
 Push your changes to your fork  
-Open a Pull Request to the main branch of the projec  
+Open a Pull Request to the main branch of the project  
 Your Pull Request will be reviewed, and feedback or additional changes may be requested  
 Once approved, your Pull Request will be merged into the main branch
   
